@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "536362281395",
+    "firebase_url": "https://blood-care-c45ab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blood-care-c45ab",
+    "storage_bucket": "blood-care-c45ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536362281395:android:f37e9e48d448d65f5dc3c6",
+        "android_client_info": {
+          "package_name": "com.anchal.bloodcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536362281395-vh2n8o9r9mnij84b6uk1ngvtnvl03hre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ1i75nYVJZVmaPhEUFYqCmYzWHUuRil0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536362281395-vh2n8o9r9mnij84b6uk1ngvtnvl03hre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536362281395:android:8b03d325039f1b595dc3c6",
+        "android_client_info": {
+          "package_name": "com.anchal.bloodcareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536362281395-d60n153rv7i91msbmdfeki7ct7jj33q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anchal.bloodcareapp",
+            "certificate_hash": "a4780ee3dc2a64ceb4b6e689e7a791f24dceb101"
+          }
+        },
+        {
+          "client_id": "536362281395-vh2n8o9r9mnij84b6uk1ngvtnvl03hre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ1i75nYVJZVmaPhEUFYqCmYzWHUuRil0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536362281395-vh2n8o9r9mnij84b6uk1ngvtnvl03hre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
